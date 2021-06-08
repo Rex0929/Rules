@@ -1,0 +1,2 @@
+# Rules
+RULES FOR SOME WEBSITE
